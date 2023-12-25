@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">findRestProject</string>
+    <string name="naver_api_url">https://openapi.naver.com/</string>
+    <string name="client_id">YtMrQmLgFvd2_5PFPqPY</string>
+    <string name="client_secret">3AFLb80_aU</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
